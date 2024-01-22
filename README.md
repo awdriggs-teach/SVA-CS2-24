@@ -12,6 +12,12 @@ Using Command Line Tools in your workflow
 - [Intro and Setup](/W1_intro_cli/cli-intro.md)
 - [Practice Replit](https://replit.com/@AdamDriggers/cs2-w1-practice#main.sh) - use this to mess around. Sign-in with SVA google.
 
+### Week 2
+- [Command Line Tools Guide](/W2_cli4arts/tools.md) 
+- [Mac Setup](/W2_cli4arts/mac_setup.md) 
+- [Win Setup](/W2_cli4arts/win_setup.md) 
+- [Replit Sandbox](https://replit.com/@AdamDriggers/CS2-W2-Sandbox) - fork it!
+
 ## Manipulating Images
 Jpg Glitch and manipulation through code.
 

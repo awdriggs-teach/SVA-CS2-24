@@ -6,7 +6,7 @@ Here are three useful tools and some tips on getting started.
 [FFmpeg](#FFmpeg) - everything audio/video related 
 [Youtube DL](#youtube-dl) - streaming video extractor! 
 
-If you get stuck with something, you can always look at the help manual for any command using the `-f` flag.
+If you get stuck with something, you can always look at the help manual for any command using the `-h` flag.
 For example, `ffmpeg -h`, will show you the options when running the ffmpeg command. 
 
 # Imagemagick
@@ -58,7 +58,7 @@ On Windows, use `magick` to run a command instead of convert
 [FFmpeg](https://www.ffmpeg.org) is a command line tool for audio/video. It is used a lot in other conversion tools.  
 
 ## Installation
-On a mac, type ` brew install ffmpeg`
+On a mac, type `brew install ffmpeg`
 
 On a PC, use this link to download an build from source. [link](https://ffmpeg.org/download.html)
 
@@ -72,7 +72,7 @@ On a PC, use this link to download an build from source. [link](https://ffmpeg.o
 
 See the list of formats + codecs:
 - `ffmpeg -formats` 
-- ` ffmpeg -codecs`
+- `ffmpeg -codecs`
 - `ffmpeg -i myfile.mp4 -vcodec libx265 myfile_265.mp4` - applies a specific codec when converting
 
 ### Movie to GIF
@@ -114,7 +114,7 @@ Merge an audio and  video, uses the shortest one as the file length
 
 ### Video from directory
 Create a movie from a directory of images!
-` ffmpeg -framerate 30 -pattern_type glob -i '*.png' \
+`ffmpeg -framerate 30 -pattern_type glob -i '*.png' \
 -c:v libx264 -pix_fmt yuv420p out.mp4`
 
 Explainer: 
