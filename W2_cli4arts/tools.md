@@ -3,7 +3,9 @@
 Here are three useful tools and some tips on getting started.
 
 [ImageMagick](#Imagemagick) - command line image manipulation
+
 [FFmpeg](#FFmpeg) - everything audio/video related 
+
 [Youtube DL](#youtube-dl) - streaming video extractor! 
 
 If you get stuck with something, you can always look at the help manual for any command using the `-h` flag.
