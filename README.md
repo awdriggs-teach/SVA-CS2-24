@@ -8,11 +8,11 @@ Using and misusing technology
 ## New Skill Unlocked - Command Line Tools
 Using Command Line Tools in your workflow
 
-### Week 1
+### Week 1 - Introduction
 - [Intro and Setup](/W1_intro_cli/cli-intro.md)
 - [Practice Replit](https://replit.com/@AdamDriggers/cs2-w1-practice#main.sh) - use this to mess around. Sign-in with SVA google.
 
-### Week 2
+### Week 2 - Command Line Tools
 - [Command Line Tools Guide](/W2_cli4arts/tools.md) 
 - [Mac Setup](/W2_cli4arts/mac_setup.md) 
 - [Win Setup](/W2_cli4arts/win_setup.md) 
@@ -20,6 +20,9 @@ Using Command Line Tools in your workflow
 
 ## Manipulating Images
 Jpg Glitch and manipulation through code.
+
+### Week 3 - Databending
+- [Glitch Guide](/W3_databending/tools.md) 
 
 ## Circuit Bending
 F***ing up some electronics
