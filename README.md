@@ -23,6 +23,7 @@ Jpg Glitch and manipulation through code.
 
 ### Week 3 - Databending
 - [Glitch Guide](/W3_databending/glitch.md) 
+- [Class Demo](/W3_databending/demo/w3Demo.md)
 
 ## Circuit Bending
 F***ing up some electronics

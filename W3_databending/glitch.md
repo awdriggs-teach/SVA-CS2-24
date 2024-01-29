@@ -1,5 +1,8 @@
 # Glitch and Databending
 
+# Adam's Demo
+- [In Class Demo](/demo/w3Demo.md)
+
 ## Tutorials and Guides
 
 ### DocPop
