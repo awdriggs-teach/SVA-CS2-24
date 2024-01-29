@@ -7,6 +7,11 @@ A good place to start
 
 - [A Glitch Tutorial: Editing Image Files With Text Editors](https://docpop.org/2014/01/a-glitch-primer-editing-image-files-with-text-editors/)
 
+### NickBriz
+Good step by step explanation of databending.
+
+- [Databending 101](http://nickbriz.com/databending101/index.html)
+
 ### animalswithinanimals 
 In depth tutorials, older but still relevant.
 
@@ -27,5 +32,5 @@ Daniel Temkin has a big list of glitch resources.
 ## Tools
 - [ImageGlitch](https://apps.apple.com/us/app/imageglitch/id417423725?mt=12), text editor with image preview.
 - [Jpg-Glitch](https://snorpey.github.io/jpg-glitch/), online glitch tool with simple slider controls.
-
+- [Raw Data Playground](http://nickbriz.com/databending101/raw-data-playground.html)
  
