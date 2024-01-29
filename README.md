@@ -22,7 +22,7 @@ Using Command Line Tools in your workflow
 Jpg Glitch and manipulation through code.
 
 ### Week 3 - Databending
-- [Glitch Guide](/W3_databending/tools.md) 
+- [Glitch Guide](/W3_databending/glitch.md) 
 
 ## Circuit Bending
 F***ing up some electronics
