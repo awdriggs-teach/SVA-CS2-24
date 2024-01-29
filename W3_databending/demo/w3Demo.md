@@ -15,10 +15,10 @@ First, I never want to operate on my original image, because it might break horr
 1. Open the file in a text editor. The default for your system works fine.
 
 1. Try making some changes.
-  - Copy/Paste some block of text. Save in your text editor.
+    - Copy/Paste some block of text. Save in your text editor.
 
 1. Change back to an image
-  - I used `cp ex-1.txt ex-1.jpg`, but you could do this with the file manager too.
+    - I used `cp ex-1.txt ex-1.jpg`, but you could do this with the file manager too.
 
 1. Open that file in an image editor to see the result.
   ![first glitch edit](edit1.jpg)
