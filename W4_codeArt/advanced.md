@@ -15,7 +15,7 @@ This is what would be printed: `[ 104, 116, 94, 255, 100, 112, 90, 255, 91, 103,
 
 The square brackets show that this is an *array*, fancy talk for a list. All the pixel data for the entire image is stored in the array. This image shows how it related.
 
-![pixel data for the mona lisa](/pixels.png)
+![pixel data for the mona lisa](./pixels.png)
 
   This can be useful, but we need to do a bunch of math to translate this 1 dimensional array into an 2 dimensional image.
 
@@ -55,7 +55,7 @@ function draw() {
 
 Here is the result!
 
-![pointalism mona lisa](/points.jpg)
+![pointalism mona lisa](./points.jpg)
 
 Here is an example where we can get a sub section of an image.
 ```javascript
@@ -78,7 +78,7 @@ function draw() {
 ```
 
 Here is a visual that shows how the sub section is calculated:
-![subsection of the mona lisa](/get.png)
+![subsection of the mona lisa](./get.png)
 
 With `get()` the possibilities for manipulation are pretty endless. We could weave two images together. We could split the image into tiles and randomize the order.
 
@@ -93,6 +93,6 @@ Using this same geometry, I grabbed a subsection of the image at each square and
 
 I then display each thumb, enlarging them to fill the canvas.
 
-![mona lisa made of squares]('/bitmona-2.jpg')
+![mona lisa made of squares]('./bitmona-2.jpg')
 
 You can see the code [here]('example/sketch.js')
