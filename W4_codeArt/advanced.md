@@ -95,4 +95,4 @@ I then display each thumb, enlarging them to fill the canvas.
 
 ![mona lisa made of squares](./bitmona-2.jpg)
 
-You can see the code [here]('./example/sketch.js)
+You can see the code [here]('./example/sketch.js')
