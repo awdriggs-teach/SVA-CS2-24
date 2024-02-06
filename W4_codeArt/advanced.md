@@ -87,12 +87,12 @@ Inspired by an [manipulated photo](https://www.instagram.com/p/Cw-nYXYIEny/) by 
 
 First I use a for loop to layout a grid of smaller squares on Mona.
 
-![a grid of squares on the mona lisa]('/bitmona-1.jpg')
+![a grid of squares on the mona lisa](./bitmona-1.jpg)
 
 Using this same geometry, I grabbed a subsection of the image at each square and stored it into an array called thumbs.
 
 I then display each thumb, enlarging them to fill the canvas.
 
-![mona lisa made of squares]('./bitmona-2.jpg')
+![mona lisa made of squares](./bitmona-2.jpg)
 
-You can see the code [here]('example/sketch.js')
+You can see the code [here]('./example/sketch.js)
