@@ -25,6 +25,11 @@ Jpg Glitch and manipulation through code.
 - [Glitch Guide](/W3_databending/glitch.md) 
 - [Class Demo](/W3_databending/demo/w3Demo.md)
 
+### Week 4 - Coding
+- [Guide](/W4_codeArt/w4Guide.md)
+- [p5 Editor](https://editor.p5js.org/)
+- [p5 Reference](https://p5js.org/reference/)
+
 ## Circuit Bending
 F***ing up some electronics
 
