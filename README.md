@@ -33,6 +33,9 @@ Jpg Glitch and manipulation through code.
 ## Circuit Bending
 F***ing up some electronics
 
+### Week 6 - Circuit Bending
+- [Guide](/w6_circuitbending/w6Guide.md)
+
 ## Microcontrollers
 Physical computing. Sensing and controlling the physical environment.
 
