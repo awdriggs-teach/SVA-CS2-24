@@ -39,6 +39,9 @@ F***ing up some electronics
 ## Microcontrollers
 Physical computing. Sensing and controlling the physical environment.
 
+### Week 7 - Setup
+- [Guide](/W7_microcontrollers/w7guide.md)
+
 ## Artificial Intelligence
 AI for Artist beyond DALL-E.
 
