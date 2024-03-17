@@ -40,7 +40,7 @@ F***ing up some electronics
 Physical computing. Sensing and controlling the physical environment.
 
 - [Week 7 Guide](/microcontrollers/w7guide.md), setup guide
-- [Week 8 Guide](/microcontrollers/w8guide.md), flashing lights 
+- [Week 8 Guide](/microcontrollers/w8Guide.md), lights and buttons
 
 ## Artificial Intelligence
 AI for Artist beyond DALL-E.
