@@ -123,4 +123,4 @@ There is a lot more to learn here! Check out this resources to start your journe
 ## Resource
 - W3Schools [Python Guide](https://www.w3schools.com/python/default.asp)
 - [CircuitPython](https://docs.circuitpython.org/en/latest/README.html) full documentation
-- [Adafruite Guide](https://learn.adafruit.com/welcome-to-circuitpython/overview)
+- [Adafruit Guide](https://learn.adafruit.com/welcome-to-circuitpython/overview)
