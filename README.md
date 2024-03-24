@@ -41,7 +41,6 @@ Physical computing. Sensing and controlling the physical environment.
 
 - [Week 7 Guide](/microcontrollers/w7guide.md), setup guide
 - [Week 8 Guide](/microcontrollers/w8Guide.md), lights and buttons
-- [Week 9 Guide](/microcontrollers/w9Guide.md), more lights, sound, and motion 
 
 ## Artificial Intelligence
 AI for Artist beyond DALL-E.
