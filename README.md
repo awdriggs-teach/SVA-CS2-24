@@ -46,5 +46,5 @@ Physical computing. Sensing and controlling the physical environment.
 
 ## Artificial Intelligence
 AI for Artist beyond DALL-E.
-
+- [Week 11 Guide](/ai/w11.md), training an image classifier.
  
